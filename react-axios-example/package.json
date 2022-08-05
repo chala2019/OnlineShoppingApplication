@@ -1,0 +1,8 @@
+{
+  "name": "react-axios-example",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "axios": "^0.24.0"
+  }
+}
